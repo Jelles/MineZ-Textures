@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "./potion_overlay_level1",
+        "layer1": "./potion_bottle_splash_level1"
+    }
+}

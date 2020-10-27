@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "./agnis_ire_overlay",
+        "layer1": "./agnis_ire_bottle"
+    }
+}
