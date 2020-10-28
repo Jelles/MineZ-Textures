@@ -5,3 +5,4 @@ Fixed a bunch of spooky items the gray names did not work.
 (Let me know if you find any that don't work)
 
 Added thorned crown textures one for gold armor and one for leather armor.
+Added forsaken's blade textures.
