@@ -2,6 +2,7 @@ Freds MineZ Texturepack 5.2.0
 
 1.12.2:
 Fixed a bunch of spooky items with gray names.
+Fixed most items so they work with all colored names.
 (Let me know if you find any that don't work)
 
 1.12.2 & 1.13.2+:
@@ -10,3 +11,4 @@ Added forsaken's blade textures.
 Added stacked snowball textures
 Added texture for Necromancy for Dummies book.
 Updated depth strider texture.
+Made golden key smaller in player hand.
