@@ -5,6 +5,7 @@
 !.gitignore
 !Freds 5.2.0 [1.13.2+]
 !Freds 5.2.0 [1.12.2]
+!changelog.txt
 # etc...
 
 # ...even if they are in subdirectories
