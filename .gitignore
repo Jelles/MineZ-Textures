@@ -1,5 +1,15 @@
-16x_stone_plate_overlay.zip
-anemos_athletic.zip
-better-iron.zip
-DCS_Maze_Pack.zip
-Texture pack stuff
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!Freds 5.2.0 [1.13.2+]
+!Freds 5.2.0 [1.12.2]
+# etc...
+
+# ...even if they are in subdirectories
+!*/
+
+# if the files to be tracked are in subdirectories
+!*/a/b/file1.txt
+!*/a/b/c/*
