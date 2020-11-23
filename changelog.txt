@@ -4,6 +4,7 @@ Freds MineZ Texturepack 5.2.0
 Fixed a bunch of spooky items with gray names.
 Fixed most items so they work with all colored names.
 (Let me know if you find any that don't work)
+Golden key animation (ADD TO 1.13!!!!)
 
 1.12.2 & 1.13.2+:
 Added thorned crown textures one for gold armor and one for leather armor.
